@@ -4,7 +4,7 @@
 
 Code the lights on the micro:bit into a flashing heart animation! 💖
 
-![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
+![Heart shape in the LEDs](/assets/flashing-heart/sim.gif)
 
 ## {Step 1 @fullscreen}
 
@@ -12,7 +12,7 @@ Click on the ``||basic:Basic||`` category in the Toolbox.
 Drag the ``||basic:show leds||`` block into the ``||basic:forever||`` block. 
 Then in the ``||basic:show leds||`` block, click on the squares to draw a heart design.
 
-![An animation that shows how to drag a block and paint a heart](/static/mb/projects/flashing-heart/showleds.gif)
+![An animation that shows how to drag a block and paint a heart](/assets/flashing-heart/showleds.gif)
 
 ## {Step 2}
 
